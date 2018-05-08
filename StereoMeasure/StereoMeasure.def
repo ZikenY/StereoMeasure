@@ -1,0 +1,18 @@
+LIBRARY STEREOMEASURE
+DESCRIPTION "StereoMeasure"
+EXPORTS
+    StereoCalib
+    StereoCalib1
+    LoadCalibrationFile
+    LoadCaliFile
+    RecalifyImages
+    UndistortedImage
+    MeasurePosition
+    MeasureDistance
+    MeasureDistance1
+    MeasureAreaTriangle
+    MeasureAreaTriangle1
+    MeasureAngle
+    MatchHomoPointWithFotos
+    SetMatchFotos
+    MatchHomoPoint
