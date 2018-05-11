@@ -1,4 +1,4 @@
-## Stereoscopic Measurement System by OpenCV - April 2016
+## Stereoscopic Measurement System by OpenCV - someday 2013
 
 ![Alt text]( screenshot01.JPG?raw=true "")
 Use a 3D coordinates reconstructing algorithm to restore the 3D objects from image pairs and to measure the coordinate and distance.<br />
